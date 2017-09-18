@@ -11,4 +11,4 @@ Created on Mon Sep 18 17:25:12 2017
 coord={0:0}
 for i in range(101):
     coord.update ({i:i})
-print coord
+print coord.items()
