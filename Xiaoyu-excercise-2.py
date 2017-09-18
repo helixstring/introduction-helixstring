@@ -19,7 +19,7 @@ for i in range(len(repeat1)-2):
 s=set()
 for i in range(len(repeat1)-2):
     s.add(repeat1[i:i+3])
-s
+print s
 
     
     
